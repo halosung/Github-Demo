@@ -1,4 +1,9 @@
+[foods]
 chip
 apple
 mango
 
+[movies]
+movie1
+movie2
+movie3
